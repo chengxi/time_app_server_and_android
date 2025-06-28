@@ -1,6 +1,7 @@
 # time_app
 
 This repository contains a Flutter client and a Flask server.
+The code is used to test how Gemini cli works 
 
 ## Client (Flutter)
 
